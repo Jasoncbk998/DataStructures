@@ -5,5 +5,6 @@ public class test {
         System.out.println("gengxin");
         System.out.println("aaaaaaa");
         System.out.println("bbbbbb");
+        System.out.println("更新完成");
     }
 }
